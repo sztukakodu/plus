@@ -1,7 +1,5 @@
 # Sztuka Kodu Plus - 2023/02
 
-Lista ciekawych linków znalezionych w internecie.
-
 ## Biblioteki
 1. [Idempotence4j](https://github.com/transferwise/idempotence4j ) - Wsparcie do obsługi idempotencji w Javie
 2. [Jobrunnr](https://github.com/jobrunr/jobrunr) - Przetwarzanie długo-trwających zadań w Javie
